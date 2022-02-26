@@ -77,6 +77,6 @@ public class Assignment1 {
             }
         }
 
-        System.out.println("The name of the youngest student is " + stud[young].name);
+        System.out.println("The roll no of the youngest student is " + stud[young].rollno);
     }
 }
